@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome, My name is Kasperi.
 
-<!--
-**Kasperi17/Kasperi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋 I'm Kasperi, a second-year vocational school student who is currently studying programming.
+I study at Gradia Viitaniemi vocational school.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Second-year vocational school student
+- 💼 Work Experience from K-market during my work based learning.
+- 🌐 Programming Languages: C#, Python, JavaScript, HTML, CSS, PHP, SQL
+
+## My Skills
+I have a foundational/Basic understanding of above mentioned, and while my expertise may not be extensive, I am continuously practicing and evolving my skills.
+Learning is a journey, and I am committed to constant improvement and growth.
+My strongest language is C#. I have most experience with it.
+
+
+## My Projects
+https://github.com/Gradia-Ohjelmistokehitys-k2022/graafiset-k-ytt-liittym-t-Kasperi17/tree/main/15_Lopputyo
+### 
