@@ -21,10 +21,10 @@ https://github.com/Gradia-Ohjelmistokehitys-k2022/graafiset-k-ytt-liittym-t-Kasp
 Here is a Mathematics game that I made
 
 ### Tools and Technologies that I can use.
-- **Git:** 
+- **Git
 
-- **.NET Framework:** a.
+- **.NET Framework
 
-- **jQuery:** 
+- **jQuery
 
-- **WordPress:** 
+- **WordPress
