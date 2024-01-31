@@ -19,3 +19,12 @@ My strongest language is C#. I have most experience with it.
 https://github.com/Gradia-Ohjelmistokehitys-k2022/graafiset-k-ytt-liittym-t-Kasperi17/tree/main/15_Lopputyo
 ### Description
 Here is a Mathematics game that I made
+
+### Tools and Technologies that I can use.
+- **Git:** 
+
+- **.NET Framework:** a.
+
+- **jQuery:** 
+
+- **WordPress:** 
