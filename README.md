@@ -17,4 +17,5 @@ My strongest language is C#. I have most experience with it.
 
 ## My Projects
 https://github.com/Gradia-Ohjelmistokehitys-k2022/graafiset-k-ytt-liittym-t-Kasperi17/tree/main/15_Lopputyo
-### 
+### Description
+Little mathematics game I made.
